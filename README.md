@@ -72,7 +72,17 @@ Menu text uses a system font (Arial on Windows). If no font is found, put a `fon
 
 ## Screenshots
 
-_Add screenshots here, for example:_ `![Menu](screenshots/menu.png)`
+### Menu
+<img src="screenshots/menu.png" width="600">
+
+### Gameplay
+<img src="screenshots/gameplay1.png" width="300"> <img src="screenshots/gameplay2.png" width="300"> <img src="screenshots/gameplay3.png" width="300">
+
+### Boss fights
+<img src="screenshots/boss1.png" width="300"> <img src="screenshots/boss2.png" width="300"> <img src="screenshots/boss3.png" width="300">
+
+### Victory
+<img src="screenshots/victory1.png" width="300"> <img src="screenshots/victory3.png" width="300">
 
 ## Tech
 
